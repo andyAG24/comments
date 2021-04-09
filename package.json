@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/andyAG24/trainings",
+  "homepage": "https://github.com/andyAG24/comments",
   "name": "comments",
   "version": "0.1.0",
   "private": true,
@@ -57,5 +57,16 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "gh-pages": "^3.1.0"
   },
-  "proxy": "http://localhost:8080"
+  "proxy": "http://localhost:8080",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyAG24/comments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyAG24/comments/issues"
+  }
 }
