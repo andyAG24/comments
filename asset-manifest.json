@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/andyAG24/comments/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/andyAG24/comments/static/js/main.9cbb3e47.chunk.js",
-    "main.js.map": "/andyAG24/comments/static/js/main.9cbb3e47.chunk.js.map",
+    "main.css": "/andyAG24/comments/static/css/main.1635e87c.chunk.css",
+    "main.js": "/andyAG24/comments/static/js/main.84ad8b91.chunk.js",
+    "main.js.map": "/andyAG24/comments/static/js/main.84ad8b91.chunk.js.map",
     "runtime-main.js": "/andyAG24/comments/static/js/runtime-main.eba56e52.js",
     "runtime-main.js.map": "/andyAG24/comments/static/js/runtime-main.eba56e52.js.map",
     "static/js/2.d42367d9.chunk.js": "/andyAG24/comments/static/js/2.d42367d9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.c81bf9dc.chunk.js": "/andyAG24/comments/static/js/3.c81bf9dc.chunk.js",
     "static/js/3.c81bf9dc.chunk.js.map": "/andyAG24/comments/static/js/3.c81bf9dc.chunk.js.map",
     "index.html": "/andyAG24/comments/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/andyAG24/comments/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.1635e87c.chunk.css.map": "/andyAG24/comments/static/css/main.1635e87c.chunk.css.map",
     "static/js/2.d42367d9.chunk.js.LICENSE.txt": "/andyAG24/comments/static/js/2.d42367d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eba56e52.js",
     "static/js/2.d42367d9.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9cbb3e47.chunk.js"
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.84ad8b91.chunk.js"
   ]
 }
