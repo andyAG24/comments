@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { IComment } from 'interfaces/IComment';
-import Comment from 'components/Comment';
+import { IComment } from '../interfaces/IComment';
+import Comment from '../components/Comment';
 import styled from 'styled-components';
 import Commentators from './Commentators';
 

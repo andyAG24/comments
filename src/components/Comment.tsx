@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { IComment } from 'interfaces/IComment';
+import { IComment } from '../interfaces/IComment';
 
 const CommentContent = styled.div`
   min-width: 250px;
